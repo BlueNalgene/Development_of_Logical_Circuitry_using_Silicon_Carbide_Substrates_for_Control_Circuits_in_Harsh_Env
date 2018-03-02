@@ -1,0 +1,2 @@
+# Development_of_Logical_Circuitry_using_Silicon_Carbide_Substrates_for_Control_Circuits_in_Harsh_Env
+This is a proposal which was submitted to NASA as part of the NPP program.  The proposal was applauded, but ultimately rejected.  As I have no intentions of performing this research with my current employment trajectory, I am making the rejected proposal available as a resource for those seeking to continue work in this area.
